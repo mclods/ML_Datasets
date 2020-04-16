@@ -20,4 +20,4 @@
 | loan_data.csv                                    | Classification | (9578, 14)   |
 | musk.csv                                         | Classification | (6598, 168)  |
 | sonar-all-data.csv                               | Classification | (208, 61)    |
-| train.csv                                        | Classification | (891, 12)    |
+| titanic_train.csv                                | Classification | (891, 12)    |
